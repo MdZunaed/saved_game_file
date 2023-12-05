@@ -1,0 +1,320 @@
+23:35:41:570 (00006564) > [Startup] Marvel's Spider-Man: Miles Morales
+23:35:41:570 (00006564) > [Startup] ==============
+23:35:41:570 (00006564) > [Startup] 
+23:35:41:570 (00006564) > [Startup] Build: v1.1116.0.0
+23:35:41:570 (00006564) > [Startup] Windows 11.0 (build 22621)
+23:35:41:570 (00006564) > [Startup] Distribution platform: Steam
+23:35:41:570 (00006564) > [Startup] Game directory: C:\<username>s\<username>\Documents\Marvel's Spider-Man Miles Morales\
+23:35:41:570 (00006564) > [Startup] Working directory: G:\Games\Marvels SpiderMan Miles Morales
+23:35:41:570 (00006564) > [Startup] Run ID: D980-CB71-8697-0AD4
+23:35:41:570 (00006564) > [Startup] 
+23:35:41:570 (00006564) > [Startup] Memory statistics:
+23:35:41:570 (00006564) > [Startup]   Total RAM = 15.9 GB (16252 MB)
+23:35:41:570 (00006564) > [Startup]   Avail RAM = 11.9 GB (12135 MB)
+23:35:41:570 (00006564) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+23:35:41:570 (00006564) > [Startup]   Avail virtual memory = 131062.5 GB (134208037 MB)
+23:35:41:570 (00006564) > [Startup]   Total page file = 19.5 GB (19964 MB)
+23:35:41:570 (00006564) > [Startup]   Avail page file = 12.3 GB (12559 MB)
+23:35:41:570 (00006564) > [Startup] 
+23:35:41:570 (00006564) > [NxApp] PreInit
+23:35:41:570 (00006564) > [SwapChain] Initializing...
+23:35:41:570 (00006564) > [DXGI] Initializing...
+23:35:41:645 (00006564) > [NxApp] No DLSSG support - streamline disabled
+23:35:41:645 (00006564) > [NxApp] Streamline could not be initialized.
+23:35:41:645 (00006564) > [DXGI] Successfully initialized.
+23:35:41:645 (00006564) > [Render] Enumerating adapters:
+23:35:41:645 (00006564) > [Render] 	Adapter 0:
+23:35:41:645 (00006564) > [Monitor] 		Description             : NVIDIA GeForce GTX 1650
+23:35:41:645 (00006564) > [Monitor] 		Vendor                  : nVidia (10de)
+23:35:41:645 (00006564) > [Monitor] 		Device                  : 1f82
+23:35:41:645 (00006564) > [Monitor] 		Sub system              : 8d921462
+23:35:41:645 (00006564) > [Monitor] 		Revision                : 161
+23:35:41:645 (00006564) > [Monitor] 		Dedicated Video Memory  : 3962 MB
+23:35:41:645 (00006564) > [Monitor] 		Dedicated System Memory : 0000 MB
+23:35:41:645 (00006564) > [Monitor] 		Shared System Memory    : 8126 MB
+23:35:41:645 (00006564) > [Monitor] 
+23:35:41:645 (00006564) > [Render] Loading NVAPI...
+23:35:41:645 (00006564) > [Render] Done loading NVAPI
+23:35:41:645 (00006564) > [Render] 	Adapter 1:
+23:35:41:645 (00006564) > [Monitor] 		Description             : Microsoft Basic Render Driver
+23:35:41:645 (00006564) > [Monitor] 		Vendor                  : Unknown (1414)
+23:35:41:645 (00006564) > [Monitor] 		Device                  : 8c
+23:35:41:645 (00006564) > [Monitor] 		Sub system              : 0
+23:35:41:645 (00006564) > [Monitor] 		Revision                : 0
+23:35:41:645 (00006564) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+23:35:41:645 (00006564) > [Monitor] 		Dedicated System Memory : 0000 MB
+23:35:41:645 (00006564) > [Monitor] 		Shared System Memory    : 8126 MB
+23:35:41:645 (00006564) > [Monitor] 
+23:35:41:645 (00006564) > [Render] Enumerating monitors:
+23:35:41:646 (00006564) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78, rounded aspect = 1.78
+23:35:41:646 (00006564) > [Render] 
+23:35:41:646 (00006564) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.00
+23:35:41:646 (00006564) > [SwapChain] Successfully initialized.
+23:35:41:646 (00006564) > [Render] Enumerating Display Modes:
+23:35:41:646 (00006564) > [Render] Querying NVAPI for Surround modes
+23:35:41:684 (00006564) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() - no surround modes detected
+23:35:41:684 (00006564) > [Render] 	Monitor '1 (NVIDIA GeForce GTX 1650(1))' (0000000000010001):
+23:35:41:684 (00006564) > [Render] 		- Mode  0 :  800 x  600 @  56 Hz, stereo = 0, hdr = 0
+23:35:41:684 (00006564) > [Render] 		- Mode  1 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:684 (00006564) > [Render] 		- Mode  2 :  800 x  600 @  72 Hz, stereo = 0, hdr = 0
+23:35:41:684 (00006564) > [Render] 		- Mode  3 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:684 (00006564) > [Render] 		- Mode  4 : 1024 x  768 @  70 Hz, stereo = 0, hdr = 0
+23:35:41:684 (00006564) > [Render] 		- Mode  5 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:684 (00006564) > [Render] 		- Mode  6 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode  7 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode  8 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode  9 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 10 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 11 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 12 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 13 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 14 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 15 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 16 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 17 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 18 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 19 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 20 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 21 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 22 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 23 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 24 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 25 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 26 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 27 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 28 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 29 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 30 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 31 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 32 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] 		- Mode 33 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+23:35:41:685 (00006564) > [Render] ***** Additional Monitor Output Info *****
+23:35:41:685 (00006564) > [Render] 		BitsPerColor: 8
+23:35:41:685 (00006564) > [Render] 		Primaries: R=0.6396;0.3301  G=0.2998;0.5996  B=0.1494;0.0596  White-Point=0.3125;0.3291
+23:35:41:685 (00006564) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+23:35:41:685 (00006564) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+23:35:41:685 (00006564) > [Render] ******************************************
+23:35:41:685 (00006564) > [Render] 
+23:35:41:765 (00006564) > [NxApp] RAY TRACING DISABLED: No Ray Tracing support detected
+23:35:41:784 (00006564) > [D3D] Max supported feature level: 11.0
+23:35:41:784 (00006564) > [Render] Disabled D3D12 experimentals
+23:35:41:836 (00006564) > [Render] VMEM Budget: 3367 MB
+23:35:41:836 (00006564) > [Render] VMEM Avaialbe: 3364 MB
+23:35:41:836 (00006564) > [Render] GPU node count: 1
+23:35:41:861 (00006564) > [NxApp] PreInit successful.
+23:35:42:060 (00006564) > [NxUpscaler] DLSS init, code = 0xbad00001, info: NVSDK_NGX_Result_FAIL_FeatureNotSupported
+23:35:42:112 (00006564) > [NxUpscaler] XeSS init, code = 0
+23:35:42:113 (00006564) > [NxApp] Querying GPU Driver Info...
+23:35:42:113 (00006564) > [NxApp] Enumerating available display adapters:
+23:35:42:129 (00006564) > [NxApp] 		NVIDIA GeForce GTX 1650 (active)
+23:35:42:129 (00006564) > [NxApp] Successfully found GPU Driver Info
+23:36:59:400 (00006564) > [NxApp] Querying GPU Driver Info...
+23:36:59:400 (00006564) > [NxApp] Enumerating available display adapters:
+23:36:59:417 (00006564) > [NxApp] 		NVIDIA GeForce GTX 1650 (active)
+23:36:59:417 (00006564) > [NxApp] Successfully found GPU Driver Info
+23:36:59:417 (00006564) > [NxApp] Driver Desc: NVIDIA GeForce GTX 1650
+23:36:59:417 (00006564) > [NxApp] Driver Version: 516.94
+23:36:59:417 (00006564) > [**************************************************Display + Graphics Settings**************************************************] 
+23:36:59:417 (00006564) > [Settings] DirectX Version: 12
+23:36:59:417 (00006564) > [Settings] Window mode: Fullscreen
+23:36:59:417 (00006564) > [Settings] Fullscreen display mode:
+23:36:59:417 (00006564) > [Settings] 	Displaying on monitor: 0
+23:36:59:417 (00006564) > [Settings] 	Resolution: 1920x1080
+23:36:59:417 (00006564) > [Settings] 	HDR: Off
+23:36:59:417 (00006564) > [Settings] 	OS reported Refresh rate: 60
+23:36:59:417 (00006564) > [Settings] 	VSync: Off
+23:36:59:417 (00006564) > [Settings] 	Reflex: Off
+23:36:59:417 (00006564) > [Settings] 	DLSSG: False
+23:36:59:417 (00006564) > [Settings] 	Resolution modifier 1.000000
+23:36:59:417 (00006564) > [Settings] 	Dynamic resolution FPS target: 30
+23:36:59:417 (00006564) > [Settings] Anti aliasing: TAA
+
+23:36:59:417 (00006564) > [Settings] Upscale method: FSR
+
+23:36:59:417 (00006564) > [Settings] Upscale quality: Quality
+
+23:36:59:417 (00006564) > [Settings] Upscale sharpen value: 0.000000
+
+23:36:59:417 (00006564) > [Settings] Graphics Options:
+23:36:59:417 (00006564) > [Settings] 	RT Reflections: Off
+23:36:59:417 (00006564) > [Settings] 	RT Shadows: Off
+23:36:59:417 (00006564) > [Settings] 	Texture Quality: Medium
+23:36:59:417 (00006564) > [Settings] 	Texture Filtering: Anisotropic2x
+23:36:59:417 (00006564) > [Settings] 	Shadow Quality: Medium
+23:36:59:417 (00006564) > [Settings] 	Depth of Field: High
+23:36:59:417 (00006564) > [Settings] 	Level of Detail: Medium
+23:36:59:417 (00006564) > [Settings] 	Vehicle Detail: Low
+23:36:59:417 (00006564) > [Settings] 	Crowd Detail: Medium
+23:36:59:417 (00006564) > [Settings] 	Hair Quality: Medium
+23:36:59:417 (00006564) > [Settings] 	Ambient Occlusion: SSAO
+23:36:59:417 (00006564) > [Settings] 	Screen Space Reflections: Normal
+23:36:59:417 (00006564) > [Settings] 	Particle Lighting: Medium
+
+23:36:59:417 (00006564) > [Settings] 	Bloom: Off
+23:36:59:417 (00006564) > [Settings] 	Vignette: On
+23:36:59:417 (00006564) > [Settings] 	Chromatic Aberration: On
+23:36:59:417 (00006564) > [Settings] 	Motion Blur: 0.071000
+23:36:59:417 (00006564) > [Settings] 	FOV Correction: 1.000000
+23:36:59:417 (00006564) > [Settings] 	Film Grain Strength: 0.611000
+23:36:59:417 (00006564) > [Settings] 	Sharpness: 0.841000
+23:36:59:417 (00006564) > [Settings] 	Lens Flares: Off
+23:36:59:417 (00006564) > [Settings] 	Screen Effects: On
+23:36:59:417 (00006564) > [**************************************************Display + Graphics Settings**************************************************] 
+23:36:59:417 (00006564) > [NxApp] Creating window...
+23:36:59:419 (00015020) > [GameWindow] UpdateState bVisible true
+23:36:59:434 (00015020) > [Input] Keyboard language: "English (United States)" (id: 1033)
+23:36:59:434 (00015020) > [Input] Keyboard physical layout: "US" (id: 00000409)
+23:36:59:434 (00015020) > [Input] Joystick            "Controller (USB Controller)"   product 654 vendor 1118 version 0 usage 5 usagePage 1 xinput yes
+23:36:59:434 (00015020) > [Input] Joystick            ""   product 20484 vendor 3141 version 265 usage 146 usagePage 65308 xinput no
+23:36:59:434 (00015020) > [Input] Joystick            ""   product 20484 vendor 3141 version 265 usage 1 usagePage 12 xinput no
+23:36:59:434 (00015020) > [Input] Joystick            ""   product 4032 vendor 6392 version 256 usage 1 usagePage 65280 xinput no
+23:36:59:434 (00015020) > [Input] Joystick            ""   product 4032 vendor 6392 version 256 usage 1 usagePage 12 xinput no
+23:36:59:434 (00015020) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 264
+23:36:59:434 (00015020) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 240
+23:36:59:434 (00015020) > [Input] Keyboard            "HID Keyboard Device"   type 81 subType 0 mode 1 function 12 indicators 3 total 109
+23:36:59:434 (00015020) > [Input] Mouse               "HID-compliant mouse"   id 256 buttons 5 sampleRate 0 horizontalWheel no
+23:36:59:442 (00015020) > [Input] Using LibScePad
+23:36:59:447 (00015020) > [Input] Gamepads connected: 0 -> 1
+23:36:59:447 (00015020) > [Input] Gamepad for main player: 8
+23:36:59:447 (00015020) > [XInput] Enumerating available xusb hid devices:
+
+23:36:59:448 (00015020) > [Xinput] Found device: {745A17A0-74D3-11D0-B6FE-00A0C90F57DA}(USB\VID_045E&PID_028E&IG_00),USB Input Device 
+	USB\VID_045E&PID_028E&IG_00\7&308F5202&0&00
+
+23:36:59:450 (00015020) > [Xinput] Found device: {D61CA365-5AF4-4486-998B-9DB4734C6CA3}(USB\VID_045E&PID_028E&REV_0110),Xbox 360 Controller for Windows 
+	USB\VID_045E&PID_028E\32869681
+
+23:36:59:451 (00006564) > [NxApp] Window created.
+23:36:59:451 (00006564) > [NxApp] Initializing swapchain...
+23:36:59:451 (00013132) > [SwapChain] Creating...
+23:36:59:451 (00013132) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+23:36:59:455 (00015020) > [Input] new Windows.Gaming.Input raw-controller found 45e 28e
+
+23:36:59:459 (00013132) > [DXGI] Created swapchain.
+23:36:59:485 (00013132) > [SwapChain] Gamma correction is enabled.
+23:36:59:485 (00013132) > [SwapChain] Successfully created.
+23:36:59:485 (00013132) > [NxSwapChainImpl] Swapchain native backbuffer (windows) resolution: 1920x1080
+23:36:59:485 (00006564) > [NxApp] Swapchain initialized
+23:36:59:485 (00006564) > [NxApp] Initializing renderer...
+23:36:59:485 (00006564) > [NxApp] Renderer initialized
+23:36:59:485 (00006564) > [NxProcessorInfo] Processor info:
+23:36:59:485 (00006564) > [NxProcessorInfo] 	Physical Core Count:     	6
+23:36:59:485 (00006564) > [NxProcessorInfo] 	Logical  Core Count:     	12
+23:36:59:485 (00006564) > [NxProcessorInfo] 	Distinct L3 Cache Count: 	1
+23:36:59:485 (00006564) > [NxProcessorInfo] Custom affinity 0 selected.
+23:36:59:485 (00006564) > [NxProcessorInfo] AMD Threading Logic
+23:36:59:490 (00006564) > [Render] No support for DXR 1.1, raytracing will be disabled!
+23:36:59:565 (00006564) > [Render] File cache.pso contains 9564 pipelines and 0 duplicates
+23:36:59:565 (00006564) > [Render] File C:\<username>s\<username>\AppData\Roaming\Insomniac Games\Marvel's Spider-Man Miles Morales\\cache.pso is missing, no pipelines read.
+23:36:59:565 (00006564) > [Render] Support for Shader Model 6.6: Yes
+23:36:59:565 (00006564) > [Render] Is UMA: No Is Cache Coherent: No
+23:36:59:565 (00006564) > [Render] Using Cpu Buffer Optimize: No
+23:37:02:460 (00006564) > [Input] Windows.Gaming.Input controller connected. index: 0
+23:37:02:461 (00006564) > [Input] Gamepads connected: 1 -> 2
+23:37:02:461 (00006564) > [Input] Gamepad for main player: 0
+23:37:02:469 (00006564) > [Input] XInput disabled, disconnecting controller. index: 0
+23:37:02:469 (00006564) > [Input] Gamepads connected: 2 -> 1
+23:37:02:469 (00006564) > [Input] Gamepad for main player: 0
+23:37:02:940 (00002324) > [Audio] Device (re)initialized 0x0 'Speakers (High Definition Audio Device)'
+23:37:04:585 (00007752) > [Save] Request type 3 failed with code 0x00000002
+23:37:04:630 (00007752) > [Save] Request type 3 failed with code 0x00000002
+23:37:04:861 (00006564) > [Save] Request load save type 0, control 128, target -1
+23:37:04:873 (00007752) > [Save] Request type 3 failed with code 0x00000002
+23:37:04:907 (00006564) > [Save] Request load save type 0, control 128, target -1
+23:37:04:925 (00007752) > [Save] Request type 3 failed with code 0x00000002
+23:37:04:938 (00006564) > [Save] Request load save type 0, control 128, target -1
+23:37:04:947 (00007752) > [Save] Request type 3 failed with code 0x00000002
+23:37:04:966 (00006564) > [Save] Request load save type 0, control 128, target -1
+23:37:04:971 (00007752) > [Save] Request type 3 failed with code 0x00000002
+23:37:04:987 (00006564) > [Save] Request load save type 0, control 128, target -1
+23:37:04:996 (00007752) > [Save] Request type 3 failed with code 0x00000002
+23:37:05:013 (00006564) > [Save] Request load save type 0, control 128, target -1
+23:37:05:365 (00016216) > [PSN] AuthenticationRequest: 400
+23:37:43:059 (00006564) > [Save] Request load save type 0, control 128, target -1
+23:38:02:227 (00005888) > [Render] Working set: 5192MB Page file: 11405MB Video Budget: 3367MB Video Usage: 3412MB Sys Budget: 7463MB Sys Usage: 1405MB Tex Usage: 1469MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 1039MB fps: 68.900002
+23:39:02:224 (00005888) > [Render] Working set: 5334MB Page file: 11492MB Video Budget: 3367MB Video Usage: 3439MB Sys Budget: 7463MB Sys Usage: 1439MB Tex Usage: 1515MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 1074MB fps: 33.850002
+23:40:02:250 (00005888) > [Render] Working set: 5343MB Page file: 11449MB Video Budget: 3367MB Video Usage: 3429MB Sys Budget: 7463MB Sys Usage: 1439MB Tex Usage: 1513MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 1073MB fps: 34.616669
+23:41:02:242 (00005888) > [Render] Working set: 5419MB Page file: 11292MB Video Budget: 3367MB Video Usage: 3365MB Sys Budget: 7463MB Sys Usage: 1299MB Tex Usage: 1315MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 931MB fps: 40.000004
+23:41:14:595 (00006564) > [Save] Request save type 0, control 36
+23:41:39:157 (00006564) > [Save] Request save type 0, control 36
+23:42:02:253 (00005888) > [Render] Working set: 5437MB Page file: 11269MB Video Budget: 3367MB Video Usage: 3338MB Sys Budget: 7463MB Sys Usage: 1304MB Tex Usage: 1320MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 935MB fps: 44.416668
+23:43:02:240 (00005888) > [Render] Working set: 5503MB Page file: 11347MB Video Budget: 3367MB Video Usage: 3359MB Sys Budget: 7463MB Sys Usage: 1321MB Tex Usage: 1341MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 950MB fps: 39.966667
+23:43:18:847 (00006564) > [Save] Request save type 0, control 0
+23:43:18:847 (00006564) > [Save] Request save type 0, control 0
+23:43:22:384 (00006564) > [Save] Request save type 0, control 0
+23:43:27:810 (00006564) > [Save] Request save type 0, control 0
+23:43:27:810 (00006564) > [Save] Request save type 0, control 0
+23:43:41:518 (00006564) > [Save] Request save type 0, control 0
+23:43:41:518 (00006564) > [Save] Request save type 0, control 0
+23:43:51:807 (00006564) > [Save] Request save type 0, control 0
+23:43:51:807 (00006564) > [Save] Request save type 0, control 0
+23:44:02:242 (00005888) > [Render] Working set: 5325MB Page file: 11206MB Video Budget: 3367MB Video Usage: 3343MB Sys Budget: 7463MB Sys Usage: 1146MB Tex Usage: 1068MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 774MB fps: 45.350002
+23:44:14:317 (00006564) > [Save] Request save type 0, control 0
+23:44:14:317 (00006564) > [Save] Request save type 0, control 0
+23:44:25:424 (00006564) > [Save] Request save type 0, control 0
+23:44:25:424 (00006564) > [Save] Request save type 0, control 0
+23:44:29:868 (00006564) > [Save] Request save type 0, control 0
+23:44:48:904 (00006564) > [Save] Request save type 0, control 0
+23:44:48:904 (00006564) > [Save] Request save type 0, control 0
+23:45:02:247 (00005888) > [Render] Working set: 5544MB Page file: 11357MB Video Budget: 3367MB Video Usage: 3351MB Sys Budget: 7463MB Sys Usage: 1321MB Tex Usage: 1322MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 949MB fps: 45.066669
+23:45:04:508 (00006564) > [Save] Request save type 0, control 36
+23:45:57:530 (00006564) > [Save] Request save type 0, control 0
+23:45:57:530 (00006564) > [Save] Request save type 0, control 0
+23:46:02:242 (00005888) > [Render] Working set: 5570MB Page file: 11361MB Video Budget: 3367MB Video Usage: 3354MB Sys Budget: 7463MB Sys Usage: 1326MB Tex Usage: 1317MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 949MB fps: 45.800003
+23:46:59:283 (00006564) > [Save] Request save type 0, control 0
+23:46:59:283 (00006564) > [Save] Request save type 0, control 0
+23:47:02:239 (00005888) > [Render] Working set: 5507MB Page file: 11370MB Video Budget: 3367MB Video Usage: 3362MB Sys Budget: 7463MB Sys Usage: 1253MB Tex Usage: 1254MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 872MB fps: 45.866669
+23:47:32:765 (00006564) > [Save] Request save type 0, control 0
+23:47:32:765 (00006564) > [Save] Request save type 0, control 0
+23:48:02:241 (00005888) > [Render] Working set: 5460MB Page file: 11351MB Video Budget: 3367MB Video Usage: 3374MB Sys Budget: 7463MB Sys Usage: 1216MB Tex Usage: 1202MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 834MB fps: 40.700001
+23:48:29:095 (00006564) > [Save] Request save type 0, control 0
+23:48:29:095 (00006564) > [Save] Request save type 0, control 0
+23:49:02:249 (00005888) > [Render] Working set: 5441MB Page file: 11307MB Video Budget: 3367MB Video Usage: 3387MB Sys Budget: 7463MB Sys Usage: 1226MB Tex Usage: 1213MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 843MB fps: 40.833336
+23:49:21:038 (00006564) > [Save] Request save type 0, control 0
+23:49:21:038 (00006564) > [Save] Request save type 0, control 0
+23:50:02:249 (00005888) > [Render] Working set: 5317MB Page file: 11301MB Video Budget: 3367MB Video Usage: 3375MB Sys Budget: 7463MB Sys Usage: 1226MB Tex Usage: 1213MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 843MB fps: 40.033337
+23:50:33:357 (00006564) > [Save] Request save type 0, control 0
+23:50:33:357 (00006564) > [Save] Request save type 0, control 0
+23:51:02:259 (00005888) > [Render] Working set: 5323MB Page file: 11377MB Video Budget: 3367MB Video Usage: 3425MB Sys Budget: 7463MB Sys Usage: 1221MB Tex Usage: 1207MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 838MB fps: 38.083336
+23:51:28:127 (00006564) > [Save] Request save type 0, control 0
+23:51:28:127 (00006564) > [Save] Request save type 0, control 0
+23:52:02:257 (00005888) > [Render] Working set: 5419MB Page file: 11377MB Video Budget: 3367MB Video Usage: 3382MB Sys Budget: 7463MB Sys Usage: 1296MB Tex Usage: 1288MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 912MB fps: 40.250004
+23:53:02:256 (00005888) > [Render] Working set: 5414MB Page file: 11375MB Video Budget: 3367MB Video Usage: 3382MB Sys Budget: 7463MB Sys Usage: 1296MB Tex Usage: 1289MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 912MB fps: 40.033337
+23:53:09:732 (00006564) > [Save] Request save type 0, control 0
+23:53:09:732 (00006564) > [Save] Request save type 0, control 0
+23:54:02:262 (00005888) > [Render] Working set: 5424MB Page file: 11480MB Video Budget: 3367MB Video Usage: 3427MB Sys Budget: 7463MB Sys Usage: 1312MB Tex Usage: 1294MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 928MB fps: 38.666668
+23:55:02:273 (00005888) > [Render] Working set: 5417MB Page file: 11468MB Video Budget: 3367MB Video Usage: 3413MB Sys Budget: 7463MB Sys Usage: 1313MB Tex Usage: 1295MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 929MB fps: 34.200001
+23:55:05:766 (00006564) > [Save] Request save type 0, control 0
+23:55:05:766 (00006564) > [Save] Request save type 0, control 0
+23:56:02:279 (00005888) > [Render] Working set: 5492MB Page file: 11600MB Video Budget: 3367MB Video Usage: 3437MB Sys Budget: 7463MB Sys Usage: 1387MB Tex Usage: 1348MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 1004MB fps: 36.033337
+23:57:02:275 (00005888) > [Render] Working set: 5493MB Page file: 11533MB Video Budget: 3367MB Video Usage: 3408MB Sys Budget: 7463MB Sys Usage: 1387MB Tex Usage: 1348MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 1004MB fps: 45.516670
+23:57:04:823 (00006564) > [Save] Request save type 0, control 0
+23:57:04:823 (00006564) > [Save] Request save type 0, control 0
+23:57:07:683 (00006564) > [Save] Request save type 0, control 0
+23:57:35:098 (00006564) > [Save] Request save type 0, control 0
+23:57:39:096 (00006564) > [Save] Request save type 0, control 0
+23:57:39:180 (00006564) > [Save] Request save type 0, control 0
+23:57:39:180 (00006564) > [Save] Request save type 0, control 0
+23:57:39:199 (00006564) > [Save] Request save type 0, control 256
+23:57:39:205 (00006564) > [Save] Request save type 0, control 0
+23:57:56:247 (00006564) > [Save] Request save type 2, control 0
+23:57:56:247 (00006564) > [Save] Request save type 0, control 0
+23:58:02:275 (00005888) > [Render] Working set: 5405MB Page file: 11368MB Video Budget: 3367MB Video Usage: 3379MB Sys Budget: 7463MB Sys Usage: 1288MB Tex Usage: 1244MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 905MB fps: 68.400002
+23:58:56:810 (00002324) > [Audio] Device (re)initialized 0x0 'Speakers (High Definition Audio Device)'
+23:58:56:810 (00002324) > [Audio] Device removed 0x0
+23:58:56:823 (00002324) > [Audio] Device (re)initialized 0x0 'Speakers (High Definition Audio Device)'
+23:59:02:286 (00005888) > [Render] Working set: 5445MB Page file: 11523MB Video Budget: 3367MB Video Usage: 3408MB Sys Budget: 7463MB Sys Usage: 1307MB Tex Usage: 1275MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 923MB fps: 28.500002
+00:00:01:521 (00002324) > [Audio] Device (re)initialized 0x0 'Speakers (High Definition Audio Device)'
+00:00:02:286 (00005888) > [Render] Working set: 5445MB Page file: 11379MB Video Budget: 3367MB Video Usage: 3377MB Sys Budget: 7463MB Sys Usage: 1295MB Tex Usage: 1263MB Tex Budget: 2000MB BVH heaps: 0MB BVH size: 0MB Demoted: 911MB fps: 53.116669
+00:00:05:144 (00006564) > [GameWindow] Window close requested
+00:00:05:255 (00006564) > [App] Quit request confirmed by user
+00:00:07:320 (00002324) > [Audio] Device removed 0x0
+00:00:26:755 (00006564) > [NxApp] Destroying
+00:00:27:210 (00006564) > [DXGI] Destroyed swapchain.
+00:00:27:210 (00006564) > [SwapChain] Destroyed.
+00:00:27:210 (00006564) > [SwapChain] Released.
+00:00:27:210 (00006564) > [Render] Unloading NVAPI
+00:00:27:211 (00006564) > [Render] Done unloading NVAPI
+00:00:27:211 (00006564) > [DXGI] Destroyed swapchain.
+00:00:27:211 (00006564) > [DXGI] Released.
+--- NIXXES log closed ---

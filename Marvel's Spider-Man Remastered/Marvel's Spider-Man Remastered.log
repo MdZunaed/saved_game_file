@@ -1,0 +1,112 @@
+23:02:47:491 (00011748) > [Startup] Marvel's Spider-Man Remastered
+23:02:47:491 (00011748) > [Startup] ==============
+23:02:47:491 (00011748) > [Startup] 
+23:02:47:491 (00011748) > [Startup] Build: v1.812.1.0
+23:02:47:491 (00011748) > [Startup] Windows 11.0 (build 22621)
+23:02:47:491 (00011748) > [Startup] Game directory: C:\<username>s\<username>\Documents\Marvel's Spider-Man Remastered\
+23:02:47:491 (00011748) > [Startup] 
+23:02:47:491 (00011748) > [Startup] Memory statistics:
+23:02:47:491 (00011748) > [Startup]   Total RAM = 15.9 GB (16252 MB)
+23:02:47:491 (00011748) > [Startup]   Avail RAM = 12.0 GB (12335 MB)
+23:02:47:491 (00011748) > [Startup]   Total virtual memory = 131072.0 GB (134217727 MB)
+23:02:47:491 (00011748) > [Startup]   Avail virtual memory = 131062.7 GB (134208164 MB)
+23:02:47:491 (00011748) > [Startup]   Total page file = 19.5 GB (19964 MB)
+23:02:47:491 (00011748) > [Startup]   Avail page file = 12.5 GB (12782 MB)
+23:02:47:491 (00011748) > [Startup] 
+23:02:47:491 (00011748) > [NxApp] PreInit
+23:02:47:491 (00011748) > [SwapChain] Initializing...
+23:02:47:491 (00011748) > [DXGI] Initializing...
+23:02:47:491 (00011748) > [DXGI] Successfully initialized.
+23:02:47:491 (00011748) > [Render] Enumerating adapters:
+23:02:47:491 (00011748) > [Render] 	Adapter 0:
+23:02:47:491 (00011748) > [Monitor] 		Description             : NVIDIA GeForce GTX 1650
+23:02:47:491 (00011748) > [Monitor] 		Vendor                  : nVidia (10de)
+23:02:47:491 (00011748) > [Monitor] 		Device                  : 1f82
+23:02:47:491 (00011748) > [Monitor] 		Sub system              : 8d921462
+23:02:47:491 (00011748) > [Monitor] 		Revision                : 161
+23:02:47:491 (00011748) > [Monitor] 		Dedicated Video Memory  : 3962 MB
+23:02:47:491 (00011748) > [Monitor] 		Dedicated System Memory : 0000 MB
+23:02:47:491 (00011748) > [Monitor] 		Shared System Memory    : 8126 MB
+23:02:47:491 (00011748) > [Monitor] 
+23:02:47:491 (00011748) > [Render] Loading NVAPI...
+23:02:47:491 (00011748) > [Render] Done loading NVAPI
+23:02:47:491 (00011748) > [Render] 	Adapter 1:
+23:02:47:491 (00011748) > [Monitor] 		Description             : Microsoft Basic Render Driver
+23:02:47:491 (00011748) > [Monitor] 		Vendor                  : Unknown (1414)
+23:02:47:491 (00011748) > [Monitor] 		Device                  : 8c
+23:02:47:491 (00011748) > [Monitor] 		Sub system              : 0
+23:02:47:491 (00011748) > [Monitor] 		Revision                : 0
+23:02:47:491 (00011748) > [Monitor] 		Dedicated Video Memory  : 0000 MB
+23:02:47:491 (00011748) > [Monitor] 		Dedicated System Memory : 0000 MB
+23:02:47:491 (00011748) > [Monitor] 		Shared System Memory    : 8126 MB
+23:02:47:491 (00011748) > [Monitor] 
+23:02:47:491 (00011748) > [Render] Enumerating monitors:
+23:02:47:491 (00011748) > [Render] 	Monitor 0: handle = 0000000000010001, aspect = 1.78, rounded aspect = 1.78
+23:02:47:491 (00011748) > [Render] 
+23:02:47:491 (00011748) > [Render] 	Monitor handle = 0000000000010001, pixel aspect ratio = 1.00
+23:02:47:491 (00011748) > [SwapChain] Successfully initialized.
+23:02:47:491 (00011748) > [Render] Enumerating Display Modes:
+23:02:47:491 (00011748) > [Render] Querying NVAPI for Surround modes
+23:02:47:525 (00011748) > [Render] NvAPI_Mosaic_GetDisplayViewportsByResolution() - no surround modes detected
+23:02:47:525 (00011748) > [Render] 	Monitor '1 (NVIDIA GeForce GTX 1650(1))' (0000000000010001):
+23:02:47:525 (00011748) > [Render] 		- Mode  0 :  800 x  600 @  56 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode  1 :  800 x  600 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode  2 :  800 x  600 @  72 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode  3 : 1024 x  768 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode  4 : 1024 x  768 @  70 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode  5 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode  6 : 1152 x  864 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode  7 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode  8 : 1176 x  664 @  50 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode  9 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 10 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 11 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 12 : 1176 x  664 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 13 : 1280 x  720 @  50 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 14 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 15 : 1280 x  720 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 16 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 17 : 1280 x  768 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 18 : 1280 x  800 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 19 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 20 : 1280 x  960 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 21 : 1280 x 1024 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 22 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 23 : 1360 x  768 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 24 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 25 : 1366 x  768 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 26 : 1440 x  900 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 27 : 1600 x  900 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 28 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 29 : 1600 x 1024 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 30 : 1680 x 1050 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 31 : 1920 x 1080 @  50 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 32 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] 		- Mode 33 : 1920 x 1080 @  60 Hz, stereo = 0, hdr = 0
+23:02:47:525 (00011748) > [Render] ***** Additional Monitor Output Info *****
+23:02:47:525 (00011748) > [Render] 		BitsPerColor: 8
+23:02:47:525 (00011748) > [Render] 		Primaries: R=0.6396;0.3301  G=0.2998;0.5996  B=0.1494;0.0596  White-Point=0.3125;0.3291
+23:02:47:525 (00011748) > [Render] 		HDR: No (Color Space: DXGI_COLOR_SPACE_RGB_FULL_G22_NONE_P709)
+23:02:47:538 (00011748) > [Render] 		Luminance: Min=0.5000 Max=270.0000 MaxFullFrame=270.0000
+23:02:47:538 (00011748) > [Render] ******************************************
+23:02:47:538 (00011748) > [Render] 
+23:02:47:835 (00011748) > [D3D] Max supported feature level: 11.0
+23:02:47:835 (00011748) > [Render] Disabled D3D12 experimentals
+23:02:47:898 (00011748) > [Render] VMEM Budget: 3367 MB
+23:02:47:898 (00011748) > [Render] VMEM Avaialbe: 3364 MB
+23:02:47:898 (00011748) > [Render] GPU node count: 1
+23:02:47:926 (00011748) > [NxApp] PreInit successful.
+23:02:48:196 (00011748) > [NxUpscaler] DLSS init, code = 0xbad00001, info: NVSDK_NGX_Result_FAIL_FeatureNotSupported
+23:02:48:243 (00011748) > [NxApp] Querying GPU Driver Info...
+23:02:48:243 (00011748) > [NxApp] Enumerating available display adapters:
+23:02:48:290 (00011748) > [NxApp] 		NVIDIA GeForce GTX 1650 (active)
+23:02:48:290 (00011748) > [NxApp] Successfully found GPU Driver Info
+23:02:50:974 (00011748) > [NxApp] Destroying
+23:02:50:974 (00011748) > [DXGI] Destroyed swapchain.
+23:02:50:974 (00011748) > [SwapChain] Destroyed.
+23:02:50:974 (00011748) > [SwapChain] Released.
+23:02:50:975 (00011748) > [Render] Unloading NVAPI
+23:02:50:975 (00011748) > [Render] Done unloading NVAPI
+23:02:50:975 (00011748) > [DXGI] Destroyed swapchain.
+23:02:50:975 (00011748) > [DXGI] Released.
+--- NIXXES log closed ---
